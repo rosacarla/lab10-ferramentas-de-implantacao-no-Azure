@@ -42,7 +42,8 @@
   <img src='images/ferramentas-bicep-json.png' width=550>
 </p>  
 
-<p align='justify'>- Exportar Template traz informações que podem ser aproveitadas na criação de recursos, como uma VNET, oferecendo itens como template em JSON, parâmetros e scripts. Tendo em vista que pode ser extensa a quantidade de linhas de comando, a automação para criar recursos com Bicep facilita o trabalho por usar menos comandos.</p>   
+<p align='justify'>- Exportar Template traz informações que podem ser aproveitadas na criação de recursos (como uma VNET), oferece  itens como template em JSON, parâmetros e scripts. Tendo em vista que pode ser extensa a quantidade de linhas de comando, a automação para criar recursos com Bicep facilita o trabalho por usar menos comandos.</p>  
+
 <p align="center">
  <img src='images/ferramentas-templates-vnet.png' width=550>
 </p>    
