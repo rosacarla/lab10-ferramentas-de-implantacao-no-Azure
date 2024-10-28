@@ -12,7 +12,7 @@
 --- 
 ## 🗒️RESUMO DOS TÓPICOS:  
 
-<p align='justify'>- A criação de recursos no portal Azure não exige o uso de linhas de comando. Tudo é feito de modo intuitivo através da seleção do tipo de recurso desejado, preenchimento dos dados obrigatórios e espera da finalização da criação pela plataforma..</p>    
+<p align='justify'>- A criação de recursos no portal Azure não exige o uso de linhas de comando. Tudo é feito de modo intuitivo através da seleção do tipo de recurso desejado, preenchimento dos dados obrigatórios e espera da finalização da criação pela plataforma.</p>    
 
 <p align="center">
   <img src='images/ferramentas-cloudshell.png' width=550> 
